@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>background-color</key>
+  <string>000000</string>
+  <key>action</key>
+  <string>landing-page</string>
+  <key>initial-orientation</key>
+  <string>portrait</string>
+  <key>supported-orientations</key>
+  <string>portrait</string>
+  <key>scrolling</key>
+  <false/>
+  <key>accessibility-description</key>
+  <string>WebGL iAd</string>
+  <key>uses-webgl</key>
+  <true/>
+</dict>
+</plist>
